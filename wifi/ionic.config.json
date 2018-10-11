@@ -1,0 +1,7 @@
+{
+  "name": "wifi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
